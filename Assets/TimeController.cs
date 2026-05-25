@@ -6,7 +6,7 @@ public class TimeController : MonoBehaviour
 {
     public Text timeText;
 
-    float time1 = 120f;
+    float time1 = 150f;
 
     void Update()
     {
