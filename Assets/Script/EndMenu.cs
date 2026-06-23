@@ -26,6 +26,7 @@ public class EndMenu : MonoBehaviour
     {
         Application.Quit();
         Debug.Log("Exit button is pressed ");
+        
        
 
     }
